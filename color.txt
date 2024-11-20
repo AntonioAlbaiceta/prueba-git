@@ -1,3 +1,4 @@
 rojo
 naranja
 purpura
+blanco
