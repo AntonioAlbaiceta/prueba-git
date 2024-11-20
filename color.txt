@@ -2,3 +2,5 @@ rojo
 naranja
 purpura
 blanco
+azul
+verde
